@@ -1,0 +1,2 @@
+# BellaBeat Case Study
+This Capstone Project is the culmination of the Google Data Analytics Certification, designed to showcase our proficiency in utilizing data analysis techniques and tools to solve real-world business problems. The project aims to integrate the knowledge and skills acquired throughout the certification program into a practical application. The analysis and visualization in this project was implemented using R programming language
